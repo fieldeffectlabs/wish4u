@@ -1,0 +1,304 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AN1	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	64;"	kind:d	line:64
+AN2	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	65;"	kind:d	line:65
+AN3	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	66;"	kind:d	line:66
+AN_PORTS	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveboard.h	59;"	kind:d	line:59
+AN_TYPE	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	60;"	kind:d	line:60
+An_i	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^const void *An_i = &_An_i;$/;"	kind:v	line:105
+An_i	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^struct An_i$/;"	kind:s	line:55	file:
+An_i_attach	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^static void *An_i_attach (void * _board,void *_sensor,int portnumb)$/;"	kind:f	line:78	file:
+An_i_ctor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^static void *An_i_ctor (void * _self, va_list *app)$/;"	kind:f	line:61	file:
+An_i_dtor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^static void An_i_dtor (void * _sensor)$/;"	kind:f	line:68	file:
+An_i_getan_i	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^static float An_i_getan_i (void * _self,va_list *app)$/;"	kind:f	line:87	file:
+BASICDEVICES_H	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	50;"	kind:d	line:50
+BFF	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	char BFF[500];$/;"	kind:l	line:11
+BOTH_SHARED	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	72;"	kind:d	line:72
+Board	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^const void *Board = &_Board;$/;"	kind:v	line:335
+Board	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^struct Board$/;"	kind:s	line:78	file:
+BoardClass	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^struct BoardClass$/;"	kind:s	line:78
+Board_ctor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^static void *Board_ctor (void * _self, va_list *app)$/;"	kind:f	line:95	file:
+D3VR_TYPE	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	56;"	kind:d	line:56
+D3V_TYPE	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	57;"	kind:d	line:57
+D5VR_TYPE	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	58;"	kind:d	line:58
+D5V_TYPE	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	59;"	kind:d	line:59
+DEBUG_PORTS	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveboard.h	61;"	kind:d	line:61
+DIG1	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	60;"	kind:d	line:60
+DIG2	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	61;"	kind:d	line:61
+DIG3	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	62;"	kind:d	line:62
+DIG4	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	63;"	kind:d	line:63
+DIG_PORTS	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveboard.h	62;"	kind:d	line:62
+DOUBLE_PORT	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	66;"	kind:d	line:66
+DUTY	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	73;"	kind:d	line:73
+Dig_io	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^const void *Dig_io = &_Dig_io;$/;"	kind:v	line:166
+Dig_io	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^struct Dig_io$/;"	kind:s	line:55	file:
+Dig_io_attach	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^static void* Dig_io_attach (void * _board,void *_sensor,int n)$/;"	kind:f	line:107	file:
+Dig_io_ctor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^static void *Dig_io_ctor (void * _self, va_list *app)$/;"	kind:f	line:66	file:
+Dig_io_dtor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^static void Dig_io_dtor (void * _sensor)$/;"	kind:f	line:91	file:
+Dig_io_get_dig_io	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^static float Dig_io_get_dig_io (void * _self,va_list *app)$/;"	kind:f	line:148	file:
+Dig_io_set_dig_io	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^static int Dig_io_set_dig_io (void * _self,va_list *app)$/;"	kind:f	line:118	file:
+ERR_PORT_ALREADY_USED	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	77;"	kind:d	line:77
+ERR_WRONG_PORTNUM	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	76;"	kind:d	line:76
+ERR_WRONG_PORT_TYPE	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	78;"	kind:d	line:78
+FREQUENCY	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	72;"	kind:d	line:72
+FlyportTask	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^void FlyportTask()$/;"	kind:f	line:7
+GET	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	char GET[500];$/;"	kind:l	line:16
+GROVEBOARD_H	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveboard.h	50;"	kind:d	line:50
+GROVEINTERFACES_H	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	50;"	kind:d	line:50
+GROVELIB_H	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	49;"	kind:d	line:49
+GroveNest	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveboard.h	55;"	kind:d	line:55
+GrovePort	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	/^}GrovePort;$/;"	kind:t	line:92	typeref:struct:__anon1
+GroveStarted	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BOOL GroveStarted = FALSE;$/;"	kind:v	line:92
+I2C	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	67;"	kind:d	line:67
+I2C_PORTS	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveboard.h	60;"	kind:d	line:60
+I2C_TYPE	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	61;"	kind:d	line:61
+INIT_CORRECT	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	75;"	kind:d	line:75
+Interface	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveboard.h	/^struct Interface$/;"	kind:s	line:65
+NOT_SHARED	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	69;"	kind:d	line:69
+NOT_USED	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	64;"	kind:d	line:64
+OnConnectionFailed	C:\XmasHack13\Firmware\wish4you\WF_Events.c	/^void OnConnectionFailed(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:16
+OnConnectionPermLost	C:\XmasHack13\Firmware\wish4you\WF_Events.c	/^void OnConnectionPermLost(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:34
+OnConnectionReestablished	C:\XmasHack13\Firmware\wish4you\WF_Events.c	/^void OnConnectionReestablished(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:28
+OnConnectionSuccessful	C:\XmasHack13\Firmware\wish4you\WF_Events.c	/^void OnConnectionSuccessful(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:9
+OnConnectionTempLost	C:\XmasHack13\Firmware\wish4you\WF_Events.c	/^void OnConnectionTempLost(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:22
+OnScanResult	C:\XmasHack13\Firmware\wish4you\WF_Events.c	/^void OnScanResult(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:41
+P1_SHARED	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	70;"	kind:d	line:70
+P2_SHARED	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	71;"	kind:d	line:71
+PWM	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	71;"	kind:d	line:71
+Pin1	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	/^	BYTE Pin1;			\/\/ 	Pin1 number - Association with Flyport pin number (analog channel for analog ports)$/;"	kind:m	line:87	struct:__anon1	access:public
+Pin2	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	/^	BYTE Pin2;			\/\/	Pin2 number - Association with Flyport pin number (analog channel for analog ports)$/;"	kind:m	line:88	struct:__anon1	access:public
+RGB	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^struct RGB$/;"	kind:s	line:56	file:
+RGB_attach	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^static void *RGB_attach (void * _board,void *_sensor,int n)$/;"	kind:f	line:210	file:
+RGB_config	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^static int RGB_config (void * _self, va_list *app)$/;"	kind:f	line:221	file:
+RGB_ctor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^static void *RGB_ctor (void * _self, va_list *app)$/;"	kind:f	line:114	file:
+RGB_dtor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^static void RGB_dtor (void * _sensor)$/;"	kind:f	line:128	file:
+RGB_set	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^static int RGB_set(void * _self, va_list *app)$/;"	kind:f	line:142	file:
+Rgb	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^const void *Rgb = &_RGB;$/;"	kind:v	line:251
+SERIAL_LCD_H	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	61;"	kind:d	line:61
+SINGLE_PORT	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	65;"	kind:d	line:65
+SLCD_BACKLIGHT_OFF	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	115;"	kind:d	line:115
+SLCD_BACKLIGHT_ON	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	114;"	kind:d	line:114
+SLCD_BLINK_OFF	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	95;"	kind:d	line:95
+SLCD_BLINK_ON	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	96;"	kind:d	line:96
+SLCD_CHAR_HEADER	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	71;"	kind:d	line:71
+SLCD_CLEAR_DISPLAY	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	88;"	kind:d	line:88
+SLCD_CNTL	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	80;"	kind:d	line:80
+SLCD_CONTROL_HEADER	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	70;"	kind:d	line:70
+SLCD_CURSOR_ACK	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	73;"	kind:d	line:73
+SLCD_CURSOR_HEADER	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	72;"	kind:d	line:72
+SLCD_CURSOR_OFF	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	91;"	kind:d	line:91
+SLCD_CURSOR_ON	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	92;"	kind:d	line:92
+SLCD_DISPLAY_OFF	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	86;"	kind:d	line:86
+SLCD_DISPLAY_ON	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	87;"	kind:d	line:87
+SLCD_INIT	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	65;"	kind:d	line:65
+SLCD_INIT_ACK	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	66;"	kind:d	line:66
+SLCD_INIT_DONE	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	67;"	kind:d	line:67
+SLCD_INVALIDCOMMAND	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	76;"	kind:d	line:76
+SLCD_LEFT_TO_RIGHT	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	105;"	kind:d	line:105
+SLCD_POST	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	81;"	kind:d	line:81
+SLCD_POWER_OFF	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	110;"	kind:d	line:110
+SLCD_POWER_ON	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	109;"	kind:d	line:109
+SLCD_PRNT	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	79;"	kind:d	line:79
+SLCD_RETURN_HOME	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	75;"	kind:d	line:75
+SLCD_RIGHT_TO_LEFT	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	106;"	kind:d	line:106
+SLCD_SCROLL_LEFT	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	99;"	kind:d	line:99
+SLCD_SCROLL_RIGHT	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\serial_lcd.h	100;"	kind:d	line:100
+SPI	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	68;"	kind:d	line:68
+ScanCompleted	C:\XmasHack13\Firmware\wish4you\WF_Events.c	/^BOOL ScanCompleted = FALSE;$/;"	kind:v	line:7
+SensorClass	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^struct SensorClass$/;"	kind:s	line:67
+SerialLcd	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^const void *SerialLcd = &_SerialLcd;$/;"	kind:v	line:262
+SerialLcd	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^struct SerialLcd$/;"	kind:s	line:70	file:
+SerialLcd_attach	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^static void *SerialLcd_attach (void * _board,void *_sensor,int port)$/;"	kind:f	line:158	file:
+SerialLcd_config	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^static int SerialLcd_config (void * _self, va_list *app)$/;"	kind:f	line:176	file:
+SerialLcd_ctor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^static void *SerialLcd_ctor (void * _self, va_list *app)$/;"	kind:f	line:105	file:
+SerialLcd_dtor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^static void SerialLcd_dtor (void * _sensor)$/;"	kind:f	line:136	file:
+SerialLcd_set	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^static int SerialLcd_set (void *_self,va_list *app)$/;"	kind:f	line:216	file:
+TIMEOUT	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\basicdevices.h	75;"	kind:d	line:75
+Type	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	/^	BYTE Type;			\/\/	Port type - Type of the port, as in the upper defines$/;"	kind:m	line:90	struct:__anon1	access:public
+Use	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	/^	BYTE Use;			\/\/	Port usage - Indicates if it's used as single or double sensor, or not used$/;"	kind:m	line:89	struct:__anon1	access:public
+_An_i	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^static const struct SensorClass _An_i =$/;"	kind:v	line:94	typeref:struct:SensorClass	file:
+_Board	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^static const struct BoardClass _Board =$/;"	kind:v	line:327	typeref:struct:BoardClass	file:
+_Dig_io	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^static const struct SensorClass _Dig_io =$/;"	kind:v	line:155	typeref:struct:SensorClass	file:
+_RGB	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^static const struct SensorClass _RGB =$/;"	kind:v	line:240	typeref:struct:SensorClass	file:
+_SerialLcd	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^static const struct SensorClass _SerialLcd =$/;"	kind:v	line:251	typeref:struct:SensorClass	file:
+aninext	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *aninext;$/;"	kind:m	line:87	struct:Board	typeref:struct:Board::Interface	file:	access:public
+anistart	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *anistart;$/;"	kind:m	line:86	struct:Board	typeref:struct:Board::Interface	file:	access:public
+ap	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	va_list ap;$/;"	kind:l	line:114
+ap	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	va_list ap;$/;"	kind:l	line:126
+ap	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	va_list ap;$/;"	kind:l	line:136
+ap	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	va_list ap;$/;"	kind:l	line:65
+ap	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	va_list ap;$/;"	kind:l	line:106
+attach	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	int (*attach)  (void *,void *,int,int);$/;"	kind:m	line:83	struct:BoardClass	access:public
+attach	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	void *(*attach) (void *,void *,int);$/;"	kind:m	line:72	struct:SensorClass	access:public
+attachSensorToAnBus	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^struct Interface *	attachSensorToAnBus (void *,int);$/;"	kind:p	line:53	file:
+attachSensorToAnBus	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^struct Interface *	attachSensorToAnBus (void *_board,int n)$/;"	kind:f	line:226
+attachSensorToDigioBus	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^struct Interface *attachSensorToDigioBus(void *,int,int);$/;"	kind:p	line:53	file:
+attachSensorToDigioBus	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^struct Interface *attachSensorToDigioBus(void *_board,int n,int type)$/;"	kind:f	line:168
+attachSensorToDigioBus	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^struct Interface *attachSensorToDigioBus(void *,int,int);$/;"	kind:p	line:53	file:
+attachSensorToI2CBus	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^struct Interface *attachSensorToI2CBus(void *_board,int i2cbus,int add)$/;"	kind:f	line:130
+attachSensorToUartBus	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^struct Interface *attachSensorToUartBus(void *_board,int port,int speed,BYTE module,BYTE interf)$/;"	kind:f	line:273
+attachSensorToUartBus	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^struct Interface *attachSensorToUartBus(void *,int,int,BYTE,BYTE);$/;"	kind:p	line:65	file:
+attachToBoard	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^int attachToBoard(void *,void *,int);$/;"	kind:p	line:61
+attachToBoard	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^int attachToBoard(void *board,void *sensor,int numb)$/;"	kind:f	line:97
+blue	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	BYTE blue = va_arg(*app, const BYTE);$/;"	kind:l	line:228
+board	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	void *board = new(GroveNest);$/;"	kind:l	line:23
+boardType	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	int boardType;$/;"	kind:m	line:81	struct:Board	file:	access:public
+buf	C:\XmasHack13\Firmware\wish4you\WF_Events.c	/^	char buf[8];$/;"	kind:l	line:44
+button	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	void *button = new(Dig_io, IN);$/;"	kind:l	line:61
+ch	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	char ch[10];$/;"	kind:l	line:12
+class	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^	const void *class;$/;"	kind:m	line:57	struct:An_i	file:	access:public
+class	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	const void *class;$/;"	kind:m	line:57	struct:Dig_io	file:	access:public
+class	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	const void *class;$/;"	kind:m	line:80	struct:Board	file:	access:public
+class	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	const struct BoardClass *class = _class;$/;"	kind:l	line:161
+class	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	const struct SensorClass *class = _class;$/;"	kind:l	line:183
+class	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	const void *class;$/;"	kind:m	line:58	struct:RGB	file:	access:public
+class	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	const void *class;$/;"	kind:m	line:72	struct:SerialLcd	file:	access:public
+column	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^		BYTE column = va_arg(*app, const BYTE);$/;"	kind:l	line:238
+config	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	int (*config) (void *,va_list *);$/;"	kind:m	line:73	struct:SensorClass	access:public
+configure	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^int configure(void *,...);$/;"	kind:p	line:62
+configure	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^int configure(void *self, ...)$/;"	kind:f	line:112
+cp	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:116
+cp	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:128
+cp	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:138
+cp	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	const struct SensorClass **cp = self;$/;"	kind:l	line:108
+ctor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	void *(*ctor) (void *,va_list *);$/;"	kind:m	line:70	struct:SensorClass	access:public
+ctor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	void *(*ctor) (void *,va_list *);$/;"	kind:m	line:81	struct:BoardClass	access:public
+d	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	BYTE d  = 0;$/;"	kind:l	line:148
+data	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^			float data = va_arg(*app, const float);$/;"	kind:l	line:135
+data	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\i2c_devices.c	/^	BYTE data = I2CRead(1);$/;"	kind:l	line:75
+data	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	BYTE data  = 0;$/;"	kind:l	line:147
+default_config	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^static void default_config(struct RGB *self)$/;"	kind:f	line:88	file:
+delet_	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^void delet_(void **);$/;"	kind:p	line:60
+delet_	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^void delet_(void **_self)$/;"	kind:f	line:91
+delete	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	56;"	kind:d	line:56
+delete_	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^void delete_(void *);$/;"	kind:p	line:59
+delete_	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^void delete_(void *_self)$/;"	kind:f	line:81
+devaddress	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	BYTE devaddress; $/;"	kind:m	line:74	struct:SerialLcd	file:	access:public
+dionext	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *dionext;$/;"	kind:m	line:85	struct:Board	typeref:struct:Board::Interface	file:	access:public
+diostart	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *diostart;$/;"	kind:m	line:84	struct:Board	typeref:struct:Board::Interface	file:	access:public
+dtor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	void (*dtor) (void *);$/;"	kind:m	line:71	struct:SensorClass	access:public
+dtor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	void *(*dtor) (void *);$/;"	kind:m	line:82	struct:BoardClass	access:public
+dtor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^		(*self)->dtor(self);$/;"	kind:p	line:86	file:
+flag	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^unsigned char flag;$/;"	kind:v	line:60
+gName	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	char *(*gName) (const void *);$/;"	kind:m	line:85	struct:BoardClass	access:public
+g_I2CSCL	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_I2CSCL[] = { p1 };$/;"	kind:v	line:70
+g_I2CSDA	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_I2CSDA[] ={ p3 }; $/;"	kind:v	line:71
+g_MISO	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_MISO[] ={ p7}; $/;"	kind:v	line:66
+g_MOSI	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_MOSI[] = { p17 };$/;"	kind:v	line:67
+g_SCK	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_SCK[] = { p18 }; $/;"	kind:v	line:65
+g_SPI_CS	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_SPI_CS[] ={ p8 }; $/;"	kind:v	line:68
+g_an	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_an[] ={ 1, 2, 3 }; $/;"	kind:v	line:73
+g_ashared	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_ashared[] = { NOT_SHARED, NOT_SHARED, NOT_SHARED, NOT_SHARED};$/;"	kind:v	line:75
+g_atype	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_atype[] = {AN_TYPE, AN_TYPE, AN_TYPE, AN_TYPE};$/;"	kind:v	line:74
+g_d1	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_d1[] = { p2, p5, p10, p12};$/;"	kind:v	line:60
+g_d2	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_d2[] = { p4, p6, p11, p14};	$/;"	kind:v	line:61
+g_dshared	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_dshared[] = { NOT_SHARED, NOT_SHARED, NOT_SHARED, NOT_SHARED, NOT_SHARED, NOT_SHARED};$/;"	kind:v	line:63
+g_dtype	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^BYTE g_dtype[] = { D5VR_TYPE, D5VR_TYPE, D5VR_TYPE, D5VR_TYPE, D5VR_TYPE, D3VR_TYPE};$/;"	kind:v	line:62
+gain	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	BYTE gain; $/;"	kind:m	line:75	struct:SerialLcd	file:	access:public
+get	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^float get(void *, ...);$/;"	kind:p	line:64
+get	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^float get(void *self, ...)$/;"	kind:f	line:134
+get_	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	float (*get_)(void *,va_list *);$/;"	kind:m	line:75	struct:SensorClass	access:public
+green	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	BYTE green = va_arg(*app, const BYTE);$/;"	kind:l	line:227
+i	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	int i = 0;$/;"	kind:l	line:75
+i	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	int i=0,j,ji,jf;$/;"	kind:l	line:14
+i2cnext	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *i2cnext;$/;"	kind:m	line:83	struct:Board	typeref:struct:Board::Interface	file:	access:public
+i2cstart	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *i2cstart;$/;"	kind:m	line:82	struct:Board	typeref:struct:Board::Interface	file:	access:public
+inSOCKET	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	TCP_SOCKET inSOCKET = INVALID_SOCKET;$/;"	kind:l	line:9
+init	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^static void init(struct SerialLcd *self)$/;"	kind:f	line:87	file:
+integr	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	BYTE integr;$/;"	kind:m	line:76	struct:SerialLcd	file:	access:public
+inter	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^	struct Interface *inter;$/;"	kind:m	line:58	struct:An_i	typeref:struct:An_i::Interface	file:	access:public
+inter	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	struct Interface *inter;$/;"	kind:m	line:58	struct:Dig_io	typeref:struct:Dig_io::Interface	file:	access:public
+inter	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	struct Interface *inter;$/;"	kind:m	line:59	struct:RGB	typeref:struct:RGB::Interface	file:	access:public
+inter	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	struct Interface *inter;$/;"	kind:m	line:73	struct:SerialLcd	typeref:struct:SerialLcd::Interface	file:	access:public
+isShared	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveinterfaces.h	/^	BYTE isShared;		\/\/	Pin sharing - Indicates if the pins of the ports are shared with other ports, like in Arduino UNO Grove shield$/;"	kind:m	line:91	struct:__anon1	access:public
+j	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	int j,k;$/;"	kind:l	line:90
+j	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	int i=0,j,ji,jf;$/;"	kind:l	line:14
+jf	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	int i=0,j,ji,jf;$/;"	kind:l	line:14
+ji	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	int i=0,j,ji,jf;$/;"	kind:l	line:14
+k	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	int j,k;$/;"	kind:l	line:90
+led_number	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	BYTE led_number;$/;"	kind:m	line:60	struct:RGB	file:	access:public
+leds_start	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	BYTE *leds_start;$/;"	kind:m	line:61	struct:RGB	file:	access:public
+mes	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	char *mes = &message[0];$/;"	kind:l	line:188
+message	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	char message[4];$/;"	kind:l	line:182
+msg	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	char msg[33];$/;"	kind:l	line:13
+new	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^void *new(const void *_class, ...)$/;"	kind:f	line:63
+new_board	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^static void *new_board(const void *,va_list ap);$/;"	kind:p	line:58	file:
+new_board	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^static void *new_board(const void *_class,va_list ap)$/;"	kind:f	line:159	file:
+new_sensor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^static void *new_sensor(const void *,va_list ap);$/;"	kind:p	line:57	file:
+new_sensor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^static void *new_sensor(const void *_class,va_list ap)$/;"	kind:f	line:181	file:
+next	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveboard.h	/^	struct Interface *next;$/;"	kind:m	line:69	struct:Interface	typeref:struct:Interface::Interface	access:public
+numb	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	BYTE numb = va_arg(*app, const BYTE);$/;"	kind:l	line:225
+p	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *p;$/;"	kind:l	line:133
+p	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *p;$/;"	kind:l	line:171
+p	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *p;$/;"	kind:l	line:229
+p	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *p;$/;"	kind:l	line:276
+p	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	void *p = calloc(1, class->size);$/;"	kind:l	line:162
+p	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	void *p = calloc(1, class->size);$/;"	kind:l	line:184
+param	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	BYTE param = va_arg(*app, const BYTE);$/;"	kind:l	line:219
+port	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveboard.h	/^	GrovePort *port;$/;"	kind:m	line:68	struct:Interface	access:public
+program	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^static void program(struct RGB *self,BYTE d)$/;"	kind:f	line:73	file:
+pwm_duty	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	float* pwm_duty;$/;"	kind:m	line:62	struct:Dig_io	file:	access:public
+pwm_frequency	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	float* pwm_frequency;$/;"	kind:m	line:61	struct:Dig_io	file:	access:public
+pwm_num	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	BYTE pwm_num;$/;"	kind:m	line:60	struct:Dig_io	file:	access:public
+r	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	BYTE r;$/;"	kind:l	line:76
+readError	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^unsigned char readError(void);$/;"	kind:p	line:65
+readError	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^unsigned char readError(void)$/;"	kind:f	line:152
+read_register	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\i2c_devices.c	/^BYTE read_register(BYTE address,BYTE regist)$/;"	kind:f	line:68
+red	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	BYTE red = va_arg(*app, const BYTE);$/;"	kind:l	line:226
+ret	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^	int ret = ADCVal(self->inter->port->Pin1);$/;"	kind:l	line:90
+ret	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	int ret = IOGet(self->inter->port->Pin1);$/;"	kind:l	line:151
+rgb	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	void *rgb = new(Rgb, 2);$/;"	kind:l	line:28
+rgb_matrix	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	BYTE *rgb_matrix;$/;"	kind:m	line:62	struct:RGB	file:	access:public
+row	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^		BYTE row = va_arg(*app, const BYTE);$/;"	kind:l	line:239
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^	struct An_i *self = _self;$/;"	kind:l	line:63
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^	struct An_i *self = _self;$/;"	kind:l	line:89
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:120
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:150
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	struct Dig_io *self = _self;$/;"	kind:l	line:68
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Board *self = _board;$/;"	kind:l	line:132
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Board *self = _board;$/;"	kind:l	line:170
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Board *self = _board;$/;"	kind:l	line:228
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Board *self = _board;$/;"	kind:l	line:275
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Board *self = _self;$/;"	kind:l	line:119
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	struct SensorClass **self = _self;$/;"	kind:l	line:83
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	struct RGB *self = _self;$/;"	kind:l	line:116
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	struct RGB *self = _self;$/;"	kind:l	line:144
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	struct RGB *self = _self;$/;"	kind:l	line:223
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	struct SerialLcd *self = _self;$/;"	kind:l	line:107
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	struct SerialLcd *self = _self;$/;"	kind:l	line:178
+self	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	struct SerialLcd *self = _self;$/;"	kind:l	line:218
+sen	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^	const struct SensorClass **sen = sensor;$/;"	kind:l	line:100
+sensor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^	struct An_i *sensor = _sensor;$/;"	kind:l	line:70
+sensor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\analog_in.c	/^	struct An_i *sensor = _sensor;$/;"	kind:l	line:80
+sensor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	struct Dig_io *sensor = _sensor;$/;"	kind:l	line:109
+sensor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	struct Dig_io *sensor = _sensor;$/;"	kind:l	line:93
+sensor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	struct RGB *sensor = _sensor;$/;"	kind:l	line:130
+sensor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	struct RGB *sensor = _sensor;$/;"	kind:l	line:212
+sensor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	struct SerialLcd *sensor = _sensor;$/;"	kind:l	line:138
+sensor	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	struct SerialLcd *sensor = _sensor;$/;"	kind:l	line:160
+set	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^int set(void *,...);$/;"	kind:p	line:63
+set	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\grovelib.c	/^int set(void *self,...)$/;"	kind:f	line:124
+set1_	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^static int set1_(void *self,...)$/;"	kind:f	line:104	file:
+set_	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	int (*set_)(void *,va_list *);$/;"	kind:m	line:74	struct:SensorClass	access:public
+set_register	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\i2c_devices.c	/^int set_register(BYTE address,BYTE regist, BYTE data)$/;"	kind:f	line:51
+size	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	size_t size; $/;"	kind:m	line:69	struct:SensorClass	access:public
+size	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	size_t size; $/;"	kind:m	line:80	struct:BoardClass	access:public
+slcd	C:\XmasHack13\Firmware\wish4you\taskFlyport.c	/^	void *slcd = new(SerialLcd,2);$/;"	kind:l	line:38
+soft_clock	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^static void soft_clock(struct RGB *self)$/;"	kind:f	line:65	file:
+speed	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\groveboard.h	/^	int speed;$/;"	kind:m	line:70	struct:Interface	access:public
+start	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\Include\grovelib.h	/^	void (*start) (const void *);$/;"	kind:m	line:84	struct:BoardClass	access:public
+state	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	BYTE state = va_arg(*app, const BYTE);$/;"	kind:l	line:121
+state	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	int state =  va_arg(*app, int);$/;"	kind:l	line:145
+state	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	BYTE state;$/;"	kind:l	line:220
+text	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	char *text;$/;"	kind:l	line:221
+toread	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	int toread = UARTBufferSize(self->uart_module); $/;"	kind:l	line:185
+type	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\digital_io.c	/^	BYTE type;$/;"	kind:m	line:59	struct:Dig_io	file:	access:public
+uart_interface	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	BYTE uart_interface;$/;"	kind:m	line:78	struct:SerialLcd	file:	access:public
+uart_module	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\serial_lcd.c	/^	BYTE uart_module;$/;"	kind:m	line:77	struct:SerialLcd	file:	access:public
+uartnext	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *uartnext;$/;"	kind:m	line:89	struct:Board	typeref:struct:Board::Interface	file:	access:public
+uartstart	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\groveboard.c	/^	struct Interface *uartstart;$/;"	kind:m	line:88	struct:Board	typeref:struct:Board::Interface	file:	access:public
+y	C:\XmasHack13\Firmware\wish4you\Libs\ExternalLib\rgb.c	/^	int y;$/;"	kind:l	line:146
