@@ -1,0 +1,4 @@
+[14-Dec-2013 17:01:01 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/infnrcpw/public_html/wish4u/en-us/index.php on line 79
+[14-Dec-2013 17:01:06 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/infnrcpw/public_html/wish4u/en-us/index.php on line 79
+[14-Dec-2013 17:01:06 Europe/Berlin] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/infnrcpw/public_html/wish4u/en-us/index.php on line 79
+[14-Dec-2013 17:41:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/infnrcpw/public_html/wish4u/en-us/signin.php on line 5
